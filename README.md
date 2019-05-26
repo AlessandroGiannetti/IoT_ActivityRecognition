@@ -41,7 +41,7 @@ Follow these steps to try the project:
     "Region": "YOUR_REGION"
 ```
 in the `res/raw/awsconfiguration.json` file with your PoolID and Region values.
-* Build and Run the app.
+* Build and Run the app
 
 # Useful Links
 * [Project presentation](https://www.slideshare.net/AndreaNapoletani/activity-recognition-137479240) (one technology is changed due to compatibility problems)
